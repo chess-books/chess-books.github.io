@@ -50,6 +50,14 @@ a:hover {
   box-shadow: 0 8px 16px rgba(0,0,0,0.15);
 }
 
+.book-card img {
+  width: 100%;
+  height: auto;
+  max-width: 240px;
+  margin: 0 auto;
+  display: block;
+}
+
 /* Footer */
 footer {
   font-size: 0.9rem;
